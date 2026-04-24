@@ -1,0 +1,8 @@
+method,perturbation,n,wer,cmd_acc,parse_acc,latency_us
+B0_none,real_google,20,0.2475,0.5000,0.5000,220.61
+B1_strict_vocab,real_google,20,0.2925,0.3000,0.5000,45.69
+B2_edit_distance,real_google,20,0.2200,0.4000,0.6500,77.03
+B3_hand_phonetic,real_google,20,0.2975,0.3000,0.7000,88.71
+B4_learned_phonetic,real_google,20,0.2200,0.4000,0.6500,65.18
+B5_filter_phonetic,real_google,20,0.2200,0.4000,0.6500,65.29
+B6_ngram_reranker,real_google,20,0.2125,0.4000,0.7500,92.32

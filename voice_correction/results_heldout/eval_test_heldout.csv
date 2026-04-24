@@ -1,0 +1,481 @@
+clean,noisy,perturbation
+stack blue and red,stack blue and red,clean
+stack blue and red,stack below and red,mishear_one
+stack blue and red,stuck below end ride,mishear_all
+stack blue and red,stack ble and red,typo
+stack blue and red,stack blue and you red,filler
+stack blue and red,staock glue like and red,mixed
+go home,go home,clean
+go home,go homes,mishear_one
+go home,goal homes,mishear_all
+go home,go hme,typo
+go home,like go home,filler
+go home,know go homs,mixed
+place the blue block back,place the blue block back,clean
+place the blue block back,place the below block back,mishear_one
+place the blue block back,plates they below blocks backs,mishear_all
+place the blue block back,pulace the blue block back,typo
+place the blue block back,place uh the blue block like back,filler
+place the blue block back,place like tehey blue block back,mixed
+pick up the yellow block,pick up the yellow block,clean
+pick up the yellow block,pink up the yellow block,mishear_one
+pick up the yellow block,pink up they hello blocks,mishear_all
+pick up the yellow block,pick up the yellow blok,typo
+pick up the yellow block,pick uh up the know yellow block,filler
+pick up the yellow block,pick you up they yelow block,mixed
+reset the scene,reset the scene,clean
+reset the scene,reset they scene,mishear_one
+reset the scene,resetting they scene,mishear_all
+reset the scene,reset the scee,typo
+reset the scene,reset um the scene,filler
+reset the scene,reseet know they scene,mixed
+put it on the left,put it on the left,clean
+put it on the left,put it on they left,mishear_one
+put it on the left,boot it on they lift,mishear_all
+put it on the left,put it on the let,typo
+put it on the left,put it um on the left like,filler
+put it on the left,bouot it on the left know,mixed
+build a tower from green blue and red,build a tower from green blue and red,clean
+build a tower from green blue and red,build a tower from grain blue and red,mishear_one
+build a tower from green blue and red,bill a power from clean glue end read,mishear_all
+build a tower from green blue and red,build a tower from gren blue and red,typo
+build a tower from green blue and red,build know a tower you from green blue and red,filler
+build a tower from green blue and red,build a toewr know from grain blue and red you,mixed
+lift the red block,lift the red block,clean
+lift the red block,lift the rad block,mishear_one
+lift the red block,left they read blocks,mishear_all
+lift the red block,lift the red bloock,typo
+lift the red block,lift know the red uh block,filler
+lift the red block,litf the ride block,mixed
+reset the scene,reset the scene,clean
+reset the scene,reset they scene,mishear_one
+reset the scene,resetting they scene,mishear_all
+reset the scene,reset the sceen,typo
+reset the scene,um reset the uh scene,filler
+reset the scene,roesetting the scene,mixed
+drop it right,drop it right,clean
+drop it right,dropped it right,mishear_one
+drop it right,dropped it write,mishear_all
+drop it right,dreop it right,typo
+drop it right,drop um like it right,filler
+drop it right,drp it write you,mixed
+grab the red cube,grab the red cube,clean
+grab the red cube,grab they red cube,mishear_one
+grab the red cube,crab they rad cubes,mishear_all
+grab the red cube,grba the red cube,typo
+grab the red cube,grab the red cube like,filler
+grab the red cube,creab the red cube,mixed
+pick blue,pick blue,clean
+pick blue,pick below,mishear_one
+pick blue,peter below,mishear_all
+pick blue,pick bue,typo
+pick blue,know pick blue,filler
+pick blue,uh pink ble,mixed
+place yellow,place yellow,clean
+place yellow,plates yellow,mishear_one
+place yellow,plates yelp,mishear_all
+place yellow,place yelow,typo
+place yellow,like know place yellow,filler
+place yellow,plates yelilow,mixed
+place blue,place blue,clean
+place blue,plates blue,mishear_one
+place blue,plates below,mishear_all
+place blue,palce blue,typo
+place blue,place you blue,filler
+place blue,plates bleue,mixed
+build a tower from blue green and red,build a tower from blue green and red,clean
+build a tower from blue green and red,build a tower from blue green and ride,mishear_one
+build a tower from blue green and red,bill a hour from glue grain end rad,mishear_all
+build a tower from blue green and red,build a toer from blue green and red,typo
+build a tower from blue green and red,build a you tower you from blue green and red,filler
+build a tower from blue green and red,build a tower form blue you you green end red,mixed
+place the yellow block right,place the yellow block right,clean
+place the yellow block right,place the yelp block right,mishear_one
+place the yellow block right,plates they yelp blocks write,mishear_all
+place the yellow block right,place the yelow block right,typo
+place the yellow block right,um place the like yellow block right,filler
+place the yellow block right,plates the yellow bock right,mixed
+drive right,drive right,clean
+drive right,drives right,mishear_one
+drive right,drives write,mishear_all
+drive right,drie right,typo
+drive right,drive um know right,filler
+drive right,know driives like right,mixed
+go to the red block,go to the red block,clean
+go to the red block,goal to the red block,mishear_one
+go to the red block,goal too they rad blocks,mishear_all
+go to the red block,go to the red bloock,typo
+go to the red block,go to know the red block,filler
+go to the red block,goal to uh like the red blck,mixed
+reset the scene,reset the scene,clean
+reset the scene,resetting the scene,mishear_one
+reset the scene,resetting they scene,mishear_all
+reset the scene,reuset the scene,typo
+reset the scene,reset you the like scene,filler
+reset the scene,reet they um scene,mixed
+move forward,move forward,clean
+move forward,moved forward,mishear_one
+move forward,moved foreword,mishear_all
+move forward,move forwaard,typo
+move forward,um um move forward,filler
+move forward,know moed forward,mixed
+stack blue yellow and green,stack blue yellow and green,clean
+stack blue yellow and green,stack blue yellow end green,mishear_one
+stack blue yellow and green,tack below yelp end grain,mishear_all
+stack blue yellow and green,stack blue yellow and goreen,typo
+stack blue yellow and green,stack blue yellow and green uh,filler
+stack blue yellow and green,stak blue yellow you and grain,mixed
+stack yellow blue and red,stack yellow blue and red,clean
+stack yellow blue and red,stack yellow blue and ride,mishear_one
+stack yellow blue and red,stuck yelp below end rad,mishear_all
+stack yellow blue and red,stack yellow bloue and red,typo
+stack yellow blue and red,like stack yellow like blue and red,filler
+stack yellow blue and red,like sack yelp blue and red,mixed
+build a tower,build a tower,clean
+build a tower,build a hour,mishear_one
+build a tower,bilt a power,mishear_all
+build a tower,build a twer,typo
+build a tower,build you a tower,filler
+build a tower,bll a tower,mixed
+stack red blue,stack red blue,clean
+stack red blue,tack red blue,mishear_one
+stack red blue,tack rad glue,mishear_all
+stack red blue,stack red bule,typo
+stack red blue,you stack red blue,filler
+stack red blue,steuck red blue,mixed
+drive to the green cube,drive to the green cube,clean
+drive to the green cube,drive too the green cube,mishear_one
+drive to the green cube,drives too they clean cubes,mishear_all
+drive to the green cube,dive to the green cube,typo
+drive to the green cube,drive to the green cube um,filler
+drive to the green cube,drive to the grain caube uh,mixed
+lift the yellow block,lift the yellow block,clean
+lift the yellow block,lift the hello block,mishear_one
+lift the yellow block,left they yelp blocks,mishear_all
+lift the yellow block,lift the yellow bloock,typo
+lift the yellow block,lift you the yellow block,filler
+lift the yellow block,lift the yep block uh know,mixed
+drive forward,drive forward,clean
+drive forward,drive foreword,mishear_one
+drive forward,drives foreword,mishear_all
+drive forward,drvie forward,typo
+drive forward,like drive forward like,filler
+drive forward,like drives froward um,mixed
+go home,go home,clean
+go home,go homes,mishear_one
+go home,goal homes,mishear_all
+go home,go hmoe,typo
+go home,uh go home you,filler
+go home,go know hiomes,mixed
+go to the blue block,go to the blue block,clean
+go to the blue block,go to they blue block,mishear_one
+go to the blue block,goal too they glue blocks,mishear_all
+go to the blue block,go to the blue balock,typo
+go to the blue block,go to the blue um block,filler
+go to the blue block,go to the glue bolock,mixed
+build a tower from blue green and yellow,build a tower from blue green and yellow,clean
+build a tower from blue green and yellow,bill a tower from blue green and yellow,mishear_one
+build a tower from blue green and yellow,bilt a power from below clean end hello,mishear_all
+build a tower from blue green and yellow,build a tower from blue green and yaellow,typo
+build a tower from blue green and yellow,build a tower from blue green and you yellow,filler
+build a tower from blue green and yellow,bilt a towr from blue green and yellow,mixed
+pick red,pick red,clean
+pick red,pick rad,mishear_one
+pick red,peter read,mishear_all
+pick red,piick red,typo
+pick red,pick red like,filler
+pick red,pueter know red,mixed
+pick up the green block,pick up the green block,clean
+pick up the green block,pick up they green block,mishear_one
+pick up the green block,pink up they clean blocks,mishear_all
+pick up the green block,pick up the grene block,typo
+pick up the green block,pick up the green um block,filler
+pick up the green block,pick up the claen block,mixed
+place the red block left,place the red block left,clean
+place the red block left,place the rad block left,mishear_one
+place the red block left,plates they read blocks lift,mishear_all
+place the red block left,place the red block lfet,typo
+place the red block left,place the um red block left,filler
+place the red block left,palace the red blocks left,mixed
+place blue,place blue,clean
+place blue,place below,mishear_one
+place blue,plates below,mishear_all
+place blue,place bue,typo
+place blue,place uh blue know,filler
+place blue,plce glue,mixed
+drop it right,drop it right,clean
+drop it right,dropped it right,mishear_one
+drop it right,dropped it write,mishear_all
+drop it right,drop it rgiht,typo
+drop it right,drop you it know right,filler
+drop it right,dropped you it rght like,mixed
+place yellow,place yellow,clean
+place yellow,plates yellow,mishear_one
+place yellow,plates yelp,mishear_all
+place yellow,place yelluow,typo
+place yellow,place uh yellow,filler
+place yellow,um plates yelow,mixed
+go home,go home,clean
+go home,go homes,mishear_one
+go home,goal homes,mishear_all
+go home,go hoe,typo
+go home,go home um you,filler
+go home,go hoomes um,mixed
+place the blue block right,place the blue block right,clean
+place the blue block right,place the blue blocks right,mishear_one
+place the blue block right,plates they glue blocks write,mishear_all
+place the blue block right,place the blue block rght,typo
+place the blue block right,um place um the blue block right,filler
+place the blue block right,plates the you blue blcok right,mixed
+take the yellow one,take the yellow one,clean
+take the yellow one,taken the yellow one,mishear_one
+take the yellow one,taken they yelp one,mishear_all
+take the yellow one,take the yellow one,typo
+take the yellow one,take the you yellow one,filler
+take the yellow one,taken the yelolw one,mixed
+go home,go home,clean
+go home,go homes,mishear_one
+go home,goal homes,mishear_all
+go home,go houme,typo
+go home,go home um,filler
+go home,gal home,mixed
+put it on the forward,put it on the forward,clean
+put it on the forward,put it on they forward,mishear_one
+put it on the forward,boot it on they foreword,mishear_all
+put it on the forward,put it on the forwrd,typo
+put it on the forward,put um it on know the forward,filler
+put it on the forward,put it on the like froeword uh,mixed
+build a tower,build a tower,clean
+build a tower,bilt a tower,mishear_one
+build a tower,bilt a hour,mishear_all
+build a tower,build a tiower,typo
+build a tower,build a tower like,filler
+build a tower,like like bit a tower,mixed
+drop it right,drop it right,clean
+drop it right,drop it write,mishear_one
+drop it right,dropped it write,mishear_all
+drop it right,drop it rgiht,typo
+drop it right,drop it right uh,filler
+drop it right,dropped it rigt,mixed
+go to the blue block,go to the blue block,clean
+go to the blue block,go to the blue blocks,mishear_one
+go to the blue block,goal too they glue blocks,mishear_all
+go to the blue block,go to the bue block,typo
+go to the blue block,go like to the blue block,filler
+go to the blue block,like go to the glue blaock,mixed
+grab the blue cube,grab the blue cube,clean
+grab the blue cube,crab the blue cube,mishear_one
+grab the blue cube,crab they below cubes,mishear_all
+grab the blue cube,garb the blue cube,typo
+grab the blue cube,grab the blue uh um cube,filler
+grab the blue cube,grb the blue cubes,mixed
+place red,place red,clean
+place red,plates red,mishear_one
+place red,plates rad,mishear_all
+place red,plcae red,typo
+place red,like place red,filler
+place red,palace read,mixed
+stack yellow and blue,stack yellow and blue,clean
+stack yellow and blue,stuck yellow and blue,mishear_one
+stack yellow and blue,tack hello end glue,mishear_all
+stack yellow and blue,stiack yellow and blue,typo
+stack yellow and blue,stack yellow and you blue,filler
+stack yellow and blue,stak yelp and blue,mixed
+lift the blue block,lift the blue block,clean
+lift the blue block,left the blue block,mishear_one
+lift the blue block,left they below blocks,mishear_all
+lift the blue block,lift the bilue block,typo
+lift the blue block,lift the um blue block,filler
+lift the blue block,left the blue blok,mixed
+go home,go home,clean
+go home,go homes,mishear_one
+go home,goal homes,mishear_all
+go home,go hoem,typo
+go home,like go home um,filler
+go home,go hmoes,mixed
+place the green block forward,place the green block forward,clean
+place the green block forward,plates the green block forward,mishear_one
+place the green block forward,plates they clean blocks foreword,mishear_all
+place the green block forward,place the groeen block forward,typo
+place the green block forward,place uh the green block um forward,filler
+place the green block forward,place tey green block forward,mixed
+go home,go home,clean
+go home,go homes,mishear_one
+go home,goal homes,mishear_all
+go home,go hme,typo
+go home,you go um home,filler
+go home,you like gaol home,mixed
+take the yellow one,take the yellow one,clean
+take the yellow one,take they yellow one,mishear_one
+take the yellow one,taken they hello one,mishear_all
+take the yellow one,tke the yellow one,typo
+take the yellow one,take the yellow like one you,filler
+take the yellow one,tkae they yellow one,mixed
+go to the blue block,go to the blue block,clean
+go to the blue block,go to the blue blocks,mishear_one
+go to the blue block,goal too they glue blocks,mishear_all
+go to the blue block,go to the blue blck,typo
+go to the blue block,go to the like blue know block,filler
+go to the blue block,go to the blue bloks um like,mixed
+pick yellow,pick yellow,clean
+pick yellow,pick yelp,mishear_one
+pick yellow,peter yelp,mishear_all
+pick yellow,pick yellw,typo
+pick yellow,pick yellow you know,filler
+pick yellow,pick ylp,mixed
+reset the scene,reset the scene,clean
+reset the scene,resetting the scene,mishear_one
+reset the scene,resetting they scene,mishear_all
+reset the scene,rest the scene,typo
+reset the scene,reset the scene like,filler
+reset the scene,rset they scene,mixed
+stack green blue and yellow,stack green blue and yellow,clean
+stack green blue and yellow,stack green blue end yellow,mishear_one
+stack green blue and yellow,stuck grain glue end yelp,mishear_all
+stack green blue and yellow,setack green blue and yellow,typo
+stack green blue and yellow,stack green blue and yellow you know,filler
+stack green blue and yellow,stack green below and yellow,mixed
+move forward,move forward,clean
+move forward,move foreword,mishear_one
+move forward,moved foreword,mishear_all
+move forward,moev forward,typo
+move forward,like move forward,filler
+move forward,know mouve foreword,mixed
+place the red block back,place the red block back,clean
+place the red block back,place the red blocks back,mishear_one
+place the red block back,plates they rad blocks backs,mishear_all
+place the red block back,place the red belock back,typo
+place the red block back,place uh the red block back,filler
+place the red block back,place the um red block baciks,mixed
+drive right,drive right,clean
+drive right,drives right,mishear_one
+drive right,drives write,mishear_all
+drive right,dirve right,typo
+drive right,drive right like,filler
+drive right,drive wrie,mixed
+stack blue green and red,stack blue green and red,clean
+stack blue green and red,stack blue clean and red,mishear_one
+stack blue green and red,stuck below grain end rad,mishear_all
+stack blue green and red,sack blue green and red,typo
+stack blue green and red,uh stack blue green you and red,filler
+stack blue green and red,stuack blue green and ride,mixed
+place yellow,place yellow,clean
+place yellow,plates yellow,mishear_one
+place yellow,plates hello,mishear_all
+place yellow,place yeallow,typo
+place yellow,place yellow you,filler
+place yellow,plaes like yellow,mixed
+stack red green,stack red green,clean
+stack red green,stack rad green,mishear_one
+stack red green,tack ride grain,mishear_all
+stack red green,stakc red green,typo
+stack red green,stack uh red uh green,filler
+stack red green,stack red cean,mixed
+build a tower,build a tower,clean
+build a tower,bilt a tower,mishear_one
+build a tower,bilt a power,mishear_all
+build a tower,build a toewr,typo
+build a tower,build uh a tower,filler
+build a tower,uh buid a power uh,mixed
+lift the yellow block,lift the yellow block,clean
+lift the yellow block,lift the yellow blocks,mishear_one
+lift the yellow block,left they yelp blocks,mishear_all
+lift the yellow block,lit the yellow block,typo
+lift the yellow block,lift the um yellow block you,filler
+lift the yellow block,left the yelolw block,mixed
+build a tower,build a tower,clean
+build a tower,bilt a tower,mishear_one
+build a tower,bilt a power,mishear_all
+build a tower,bulid a tower,typo
+build a tower,build a uh tower,filler
+build a tower,bill a tower,mixed
+place the blue block right,place the blue block right,clean
+place the blue block right,place the blue blocks right,mishear_one
+place the blue block right,plates they below blocks write,mishear_all
+place the blue block right,place the blue blcok right,typo
+place the blue block right,place the blue like block um right,filler
+place the blue block right,plae the blue blocks right,mixed
+pick green,pick green,clean
+pick green,pick grain,mishear_one
+pick green,pink clean,mishear_all
+pick green,pick goreen,typo
+pick green,pick uh green,filler
+pick green,know peter like gren,mixed
+drive to the yellow cube,drive to the yellow cube,clean
+drive to the yellow cube,drive to the hello cube,mishear_one
+drive to the yellow cube,drives too they hello cubes,mishear_all
+drive to the yellow cube,driev to the yellow cube,typo
+drive to the yellow cube,drive to know the yellow cube,filler
+drive to the yellow cube,drieve to the yelp cube,mixed
+pick up the red block,pick up the red block,clean
+pick up the red block,pick up the red blocks,mishear_one
+pick up the red block,pink up they rad blocks,mishear_all
+pick up the red block,pcik up the red block,typo
+pick up the red block,pick up the red block like,filler
+pick up the red block,pick up the you red blcks,mixed
+stack blue yellow,stack blue yellow,clean
+stack blue yellow,stack glue yellow,mishear_one
+stack blue yellow,stuck glue yelp,mishear_all
+stack blue yellow,stack bleu yellow,typo
+stack blue yellow,stack um blue yellow,filler
+stack blue yellow,stack glue yelow,mixed
+go home,go home,clean
+go home,go homes,mishear_one
+go home,goal homes,mishear_all
+go home,go hoem,typo
+go home,you go home you,filler
+go home,go hoems know know,mixed
+pick up the yellow block,pick up the yellow block,clean
+pick up the yellow block,pick up they yellow block,mishear_one
+pick up the yellow block,pink up they yelp blocks,mishear_all
+pick up the yellow block,pick up the yellow blck,typo
+pick up the yellow block,pick up you the yellow you block,filler
+pick up the yellow block,pick up the yellow blcoks,mixed
+build a tower,build a tower,clean
+build a tower,build a hour,mishear_one
+build a tower,bilt a hour,mishear_all
+build a tower,buid a tower,typo
+build a tower,um build a tower,filler
+build a tower,bilt a toer know know,mixed
+take the red one,take the red one,clean
+take the red one,take they red one,mishear_one
+take the red one,taken they read one,mishear_all
+take the red one,tae the red one,typo
+take the red one,take um the red one,filler
+take the red one,takeen the red one,mixed
+go to the red block,go to the red block,clean
+go to the red block,goal to the red block,mishear_one
+go to the red block,goal too they rad blocks,mishear_all
+go to the red block,go to the red bock,typo
+go to the red block,go to the know red block,filler
+go to the red block,go to thy red block you,mixed
+build a tower,build a tower,clean
+build a tower,build a hour,mishear_one
+build a tower,bilt a hour,mishear_all
+build a tower,buiild a tower,typo
+build a tower,build a tower uh,filler
+build a tower,bilt a twoer,mixed
+pick green,pick green,clean
+pick green,pink green,mishear_one
+pick green,peter clean,mishear_all
+pick green,pick gren,typo
+pick green,pick know green,filler
+pick green,pikn like green,mixed
+pick up the blue block,pick up the blue block,clean
+pick up the blue block,pick up the blue blocks,mishear_one
+pick up the blue block,peter up they glue blocks,mishear_all
+pick up the blue block,pick up the ble block,typo
+pick up the blue block,pick up the you blue block you,filler
+pick up the blue block,pck up the glue block,mixed
+pick up the blue block,pick up the blue block,clean
+pick up the blue block,pick up they blue block,mishear_one
+pick up the blue block,peter up they glue blocks,mishear_all
+pick up the blue block,pck up the blue block,typo
+pick up the blue block,pick um up the blue block,filler
+pick up the blue block,pick up the ble blocks,mixed
+grab the blue cube,grab the blue cube,clean
+grab the blue cube,crab the blue cube,mishear_one
+grab the blue cube,crab they glue cubes,mishear_all
+grab the blue cube,grab the bule cube,typo
+grab the blue cube,um grab the blue like cube,filler
+grab the blue cube,grab the blue cubse,mixed

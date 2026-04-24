@@ -1,0 +1,8 @@
+method,perturbation,n,wer,cmd_acc,parse_acc,latency_us
+B0_none,real_whisper,100,0.4174,0.0100,0.8900,47.39
+B1_strict_vocab,real_whisper,100,0.4274,0.0100,0.5800,47.18
+B2_edit_distance,real_whisper,100,0.1415,0.6200,0.8900,98.92
+B3_hand_phonetic,real_whisper,100,0.1290,0.6700,0.9200,82.74
+B4_learned_phonetic,real_whisper,100,0.1415,0.6200,0.9000,78.41
+B5_filter_phonetic,real_whisper,100,0.1415,0.6200,0.9000,85.98
+B6_ngram_reranker,real_whisper,100,0.1140,0.7000,0.9600,95.62
