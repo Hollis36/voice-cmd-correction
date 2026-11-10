@@ -48,4 +48,4 @@ B6 closes the generalization gap from −13.5 pp (B5) to −1.8 pp at ~100 µs p
 
 ## License
 
-Apache 2.0
+Apache 2.0, see [LICENSE](LICENSE).
